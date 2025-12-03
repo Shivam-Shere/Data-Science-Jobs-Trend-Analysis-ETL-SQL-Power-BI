@@ -44,4 +44,12 @@ pip install -r requirements.txt
 - The dashboard Report looks like-
 ### Page-1. Job Market Overview:
 
-![Snapshot of Job Market Overview](https://github.com/user-attachments/assets/1a97bba3-7b54-4fd2-8139-ca46be3203ea)
+   ![Snapshot of Job Market Overview](https://github.com/user-attachments/assets/1a97bba3-7b54-4fd2-8139-ca46be3203ea)
+
+### Page-2. Skills Insights:
+
+   ![Snapshot of Skills Insights](https://github.com/user-attachments/assets/41bbb757-2c76-4b0d-ab9f-a5267cceafc1)
+
+### Page-2. Workforce Insights:
+
+   ![Snapshot of Workforce Insights](https://github.com/user-attachments/assets/3e4a3523-3b46-4a3f-84d6-9d7954417379)

@@ -42,4 +42,6 @@ pip install -r requirements.txt
 ## Screenshots:
 
 - The dashboard Report looks like-
-### 1. [Job Market Overview:] [https://github.com/Shivam-Shere/Data-Science-Jobs-Trend-Analysis-ETL-SQL-Power-BI/blob/main/Report%20Pages_Snapshots/Snapshot%20of%20Job%20Market%20Overview.jpg] 
+### Page-1. Job Market Overview:
+
+![Snapshot of Job Market Overview](https://github.com/user-attachments/assets/1a97bba3-7b54-4fd2-8139-ca46be3203ea)

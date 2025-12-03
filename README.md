@@ -27,3 +27,15 @@ Ensure the following are installed:
 - Power BI Desktop 
 
 - Required Python packages via requirements.txt
+
+
+## Steps to Install:
+
+### 1️⃣ Clone the Repository:
+
+git clone https://github.com/Shivam-Shere/Data-Science-Jobs-Trend-Analysis-ETL-SQL-Power-BI.git
+
+### 2️⃣ Install Dependencies:
+
+pip install -r requirements.txt
+

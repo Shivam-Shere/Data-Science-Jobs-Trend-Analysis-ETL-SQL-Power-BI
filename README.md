@@ -50,6 +50,6 @@ pip install -r requirements.txt
 
    ![Snapshot of Skills Insights](https://github.com/user-attachments/assets/41bbb757-2c76-4b0d-ab9f-a5267cceafc1)
 
-### Page-2. Workforce Insights:
+### Page-3. Workforce Insights:
 
    ![Snapshot of Workforce Insights](https://github.com/user-attachments/assets/3e4a3523-3b46-4a3f-84d6-9d7954417379)

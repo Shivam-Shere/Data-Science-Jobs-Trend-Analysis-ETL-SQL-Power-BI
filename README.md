@@ -171,4 +171,5 @@ pip install -r requirements.txt
 
 ### Page-3. Workforce Insights:
 
-   ![Snapshot of Workforce Insights](https://github.com/user-attachments/assets/3e4a3523-3b46-4a3f-84d6-9d7954417379)
+   ![Snapshot of Workforce Insights](https://github.com/user-attachments/assets/1a771300-f5fd-4034-988a-2dac741ecaf0)
+

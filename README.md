@@ -130,41 +130,6 @@ To deliver an interactive, data-driven Report that:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 📥 Installation:
 
 Prerequisites
@@ -192,9 +157,10 @@ git clone https://github.com/Shivam-Shere/Data-Science-Jobs-Trend-Analysis-ETL-S
 
 pip install -r requirements.txt
 
-## Screenshots:
+## 6. Screenshots:
 
-- The dashboard Report looks like-
+- The Report Pages looks like-
+
 ### Page-1. Job Market Overview:
 
    ![Snapshot of Job Market Overview](https://github.com/user-attachments/assets/1a97bba3-7b54-4fd2-8139-ca46be3203ea)
